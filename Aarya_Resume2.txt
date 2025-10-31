@@ -1,0 +1,34 @@
+
+Summary — Information Technology Engineering student with hands on experience through academic projects.Strong problem solving abilities,with a continuous drive to learn new technology.
+Experience
+
+	Machine Learning Internship	Sep 2024 – Oct 2024
+Unified Mentor
+– Gained hands-on experience in core machine learning concepts and algorithms.
+– Worked on real-world datasets to develop predictive models using Python and libraries like NumPy, pandas, and scikit-learn.
+Projects
+
+Online Polling System
+– Developed an online polling system that allows users to create and participate in polls or surveys via the internet.
+– Implemented features for real-time voting, result tracking, and data security.
+Laptop Price Prediction
+– Predicted the price of a laptop based on various features using machine learning algorithms.
+– Helps users estimate laptop costs and guides retailers for pricing strategies.
+Skills
+Languages :	Java, Python
+Web Technologies : HTML, CSS, Spring Boot
+Databases :	MySQL
+Core Concept :	OOP, DBMS, DSA
+Tools & Platforms : VS Code, Eclipse, PowerBI
+Other Skills:	Java 8 Features,PowerBI
+EducationB.E. (Information Technology Engineering)2022–2026Vidya Pratishthan’s Kamalnayan Bajaj Institute Of Engineering and Technology, Baramati, Pune SGPA: 7.83
+Higher Secondary (HSC) – Percentage: 87.17%2022Dattakala International School and Jr College,swami chincholi,Bhigwan,Daund
+Secondary (SSC) – Percentage: 90.60%
+Vidya Pratishthan’s New English Medium School,Baramati,Pune
+Certifications & Achievements2020– Completed Capgemini Java Full Stack Development Training
+– Infosys Springboard : Python Foundation Certification
+– Infosys Springboard : Java Foundation Certification – NPTEL Certification: Database Management System
+– TCS iON: Introduction to Soft Skills
+– Smart India Hackathon 2024 – Participant
+– PowerBI Workshop - Google Developer Groups(3rd Rank)
+
